@@ -1,0 +1,45 @@
+1. Uzdevums
+https://github.com/idmelkis/11-1-2023/tree/main/faila_izveide
+Izveidot programmu, kas
+* Izveido mapi "faili".
+* Izveido mapē failus ar nosaukumiem no 0 līdz 100. 
+* Katrā failā noglabājat gadījumskaitlis.
+* Prasa lietotājam atvērt kādu no šiem failiem, un ievadīt vērtību, kas ir failā. 
+* Atkarībā no tā vai ievadīts pareizi, izvada "pareizi", vai "nepareizi".
+* Kad programma beidz darbu, izdzēšat šo mapi ar visiem failiem.
+
+2. Uzdevums
+
+Atverat vietni https://www.lipsum.com/ un uzģenerējat tekstu.
+Saglabājat rindkopu no teksta failā.
+
+Uzrakstat programmu, kas atver failu, un izvada vārdu skaitu failā.
+
+3. Uzdevums
+Atverat vietni https://www.lipsum.com/ un uzģenerējat tekstu.
+Saglabājat rindkopu no teksta failā.
+Izveidojat programmu kas 
+* atver šo failu
+* izveido failu ar to pašu nosaukumu + "_uppercase"
+(piem. fails.txt -> fails_uppercase.txt). Ja fails jau eksistē izvadat kļūdu.
+* otrajā failā saglabājat pirmā faila saturu pārveidojot visus burtus par lielajiem.
+
+4. Uzdevums
+
+Eksistē fails ar sekojošu saturu:
+
+A = 5
+B = 10
+C = A - B
+
+A = 15
+B = 3
+C = A / B
+
+A = 2
+B = 7
+C = A * B
+
+Izveidojat programmu, kas atver šo failu, un pievieno visas 3 C vērtības pēc darbībām.
+Nomainot vērtības failā, un palaižot programmu vajadzētu redzēt jaunās vērtības.
+Pieņemt, ka programmā VIENMĒR būs šāds formāts, un tikai 3 šādas darbības.
