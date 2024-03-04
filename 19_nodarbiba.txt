@@ -1,0 +1,4 @@
+Uzdevums (i/ni): http://s.ayy.lv/0403
+Nodot pirmās stundas beigās.
+Tabulatora simbols: '\t'
+Materiāli: https://github.com/idmelkis/11-1-2023
