@@ -44,3 +44,9 @@ conf['HEADER']['key2'] = 'value'
 fails2 = Path('20_nodarbiba_.ini')
 with open(fails2, 'w', encoding='utf-8') as f:
     conf.write(f)
+
+# DBMS: https://en.wikipedia.org/wiki/Database
+# DB Standarts: https://en.wikipedia.org/wiki/ACID
+# Relacionālās datu bāzes: https://en.wikipedia.org/wiki/Relational_database
+# SQLite: https://www.sqlite.org/
+# SQLITE DB Browser: https://sqlitebrowser.org/
