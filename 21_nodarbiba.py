@@ -16,7 +16,7 @@ lietotajs2 = Lietotajs(1, "Lietotajs2", "****", "mail@mail.com")
 
 import sqlite3
 
-db = sqlite3.connect("database.db")
+db = sqlite3.connect("21_nodarbiba.db")
 cur = db.cursor()
 
 # https://www.sqlite.org/lang_createtable.html
@@ -79,5 +79,5 @@ cur.close()
 db.commit()
 db.close()
 
-# with sqlite3.connect("database.db") as db:
+# with sqlite3.connect("21_nodarbiba.db") as db:
 #     0_0
